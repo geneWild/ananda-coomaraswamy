@@ -1,6 +1,7 @@
 # Ananda K. Coomaraswamy
 
 All epubs are wrapped in a .zip file to avoid GitHub download issues.
+See all ePubs [here](https://github.com/geneWild/epubs).
 
 Available:
 - The Door in the Sky
